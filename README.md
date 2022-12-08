@@ -1,1 +1,1 @@
-Repsoitorio de prueba para primer commit de sesion Git y Github.
+Repsoitorio de prueba para primer commit de sesion Git y Github
